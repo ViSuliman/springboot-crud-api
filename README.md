@@ -1,6 +1,5 @@
 # 🌱 projeto de API REST com Spring Boot
 
-Oi! 👋  
 Esse repositório foi criado como parte do meu aprendizado em desenvolvimento backend com Java. Aqui eu desenvolvi **do zero** uma API REST usando **Spring Boot**, com direito a CRUD, integração com banco de dados MySQL, paginação, validações e até controle de versão com Flyway.
 
 ---
